@@ -1,10 +1,10 @@
 import React from 'react'
-import PresidentialHackingCampaign from './NewsReports/PresidentialHackingCampaign'
+import Reports from './NewsReports/Reports'
 
 function HomePage() {
   return (
     <div>
-        <PresidentialHackingCampaign />
+        <Reports />
     </div>
   )
 }
